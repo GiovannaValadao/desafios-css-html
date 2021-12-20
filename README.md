@@ -1,4 +1,4 @@
-# desafios-css-html :rocket:
+# desafios-css-html :rocket: 
 
 ## Objetivo
 
@@ -14,9 +14,16 @@ Melhorar as habilidades em CSS3/HTML através da realização de pequenos projet
 
 - O que eu aprendi:
   - A pseudo-class `:hover` é utilizada como efeito para alterar o estilo de um elemento(botões, imagens, links) quando o ponteiro do mouse estiver em cima. Existem outras pseudo-classes que podem serem utilizadas com o `:hover:`:
-    -  `link`:
-    -  `visited`:
-    -  `active`:
+    -  `link`: Usado para selecionar os links dentro de um elemento.
+    -  `visited`: Usado para indicar se o link em questão já foi visitado pelo usuário
+    -  `active`: Usado para estilizar os links utilizamos o :active depois de todas as outras regras relacionadas ao link. 
+
+         - Exemplo de um css do Elemento `<a>` com atributo `<href>`:
+            `body { background-color: #ffffc9 }`
+            `a:link { color: blue } /* links não visitados */`
+            `a:visited { color: purple } /* links visitados */`
+            `a:hover { font-weight: bold } /* user hovers */`
+            `a:active { color: lime } /* links ativos */`
 
   - A pseudo-class `:focus` permite estilizar um elemento quando está em foco, o que pode ocorrer quando o usuário seleciona o elemento utilizando o teclado ou ativando o mesmo com o mouse.
 
