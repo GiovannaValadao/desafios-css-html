@@ -14,6 +14,14 @@ Melhorar as habilidades em CSS3/HTML através da realização de pequenos projet
 
 - O que eu aprendi:
   - A pseudo-class `:hover` é utilizada como efeito para alterar o estilo de um elemento(botões, imagens, links) quando o ponteiro do mouse estiver em cima. Existem outras pseudo-classes que podem serem utilizadas com o `:hover:`:
-    -  `link`
-    -  `visited`
-    -  `active` 
+    -  `link`:
+    -  `visited`:
+    -  `active`:
+
+  - A pseudo-class `:focus` permite estilizar um elemento quando está em foco, o que pode ocorrer quando o usuário seleciona o elemento utilizando o teclado ou ativando o mesmo com o mouse.
+
+A diferença entre `:hover` e `:focus` é:
+
+- `:hover` quando o ponteiro do mouse está no elemento.
+
+- `:focus` quando você seleciona um elemento, o elemento entra no foco.
