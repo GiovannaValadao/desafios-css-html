@@ -5,7 +5,7 @@
 Melhorar as habilidades em CSS3/HTML através da realização de pequenos projetos.
 ## 🟢 Regras gerais :
 
-- Cada projeto deverá ter o seu arquivo README contendo uma imagem/gif do resultado do desafio e uma pequena descrição do que foi aprendido no desafio.
+- Cada projeto deverá ter no arquivo README contendo uma imagem/gif do resultado do desafio e uma pequena descrição do que foi aprendido no desafio.
 - Os desafios não possuem layout fixo, aproveite para usar a criatividade e utilize o CSS para estilizar conforme preferir. Usar o [gerador de texto](https://www.lipsum.com/) para preencher as divs com textos.
 - Em todos os desafios a página deve ficar responsiva para o mobile.
 
