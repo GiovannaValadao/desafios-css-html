@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.button-note {
+  background:#7FFFD4;
+  color: #778899;
+  width: 200px;
+  height: 60px;
+  border: 0;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: 'Raleway', sans-serif;
+  overflow: hidden;
+  color: black;
+}
+
+.button-note:hover{
+  background: #006400;
+  cursor: pointer;
+}
+.button-note:focus{
+  background:#A52A2A;
+}
+.input-note {
+  width: 150px;
+  height: 55px;
+  border-color: red;
+}
+.input-note:focus{
+color: #A52A2A;
+}
+
