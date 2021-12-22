@@ -15,7 +15,6 @@ torna o elemento um flex container automaticamente transformando todos os seus f
 
 .container > div{
   font-size: 16px; 
-  
 }
 
 .pop{
@@ -25,9 +24,9 @@ torna o elemento um flex container automaticamente transformando todos os seus f
 
 .rock{
   margin-right: 10px;
-
   background-color: gold;
 }
+
 .sertanejo{
   background-color: brown;
 }
