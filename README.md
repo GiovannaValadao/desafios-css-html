@@ -33,7 +33,7 @@ A diferença entre `:hover` e `:focus` é:
 
 - `:focus` quando você seleciona um elemento, o elemento entra no foco.
 
-## [ Desafio 2 -  Divs responsivas:](https://github.com/GiovannaValadao/desafios-css-html/tree/main/desafio-2)
+## [ Desafio 2 -  Divs responsivas:](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-2/desafio-2)
 
 ![Screenshot](screenshot.png)
 
