@@ -35,7 +35,8 @@ A diferença entre `:hover` e `:focus` é:
 
 ## [ Desafio 2 -  Divs responsivas:](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-2/desafio-2)
 
-![Screenshot](screenshot.png)
+<img width="1160" alt="Captura de Tela 2021-12-22 às 12 14 06" src="https://user-images.githubusercontent.com/42494406/147122244-4b548a21-175d-4500-b466-df60cc37b281.png">
+
 
 - O que eu aprendi:
 
