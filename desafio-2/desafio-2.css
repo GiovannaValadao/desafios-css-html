@@ -1,0 +1,41 @@
+body{
+ margin: 0; /* removing the default body margin */
+ text-align: center;
+ box-sizing: border-box
+}
+
+.container{
+  align-items: center; /* alinha na horizontal */
+  justify-content: center; /* alinha na vertical */ 
+  width: 100%;
+  height: 100%; 
+  display: flex; /* ele passa a deixar as divs uma do lado da outra pq é o comportamento do flexbox, 
+torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens.*/
+ gap: 16px;
+}
+
+@media screen and (max-width: 1024px) {   
+  .container {
+    flex-direction: column;
+   }
+}
+
+
+.container > div{
+  font-size: 16px; 
+  padding: 30px;
+  height: 250px;
+  width: 250px;
+}
+
+.pop{
+  background-color: aqua;
+}
+
+.rock{
+  background-color: gold;
+}
+
+.sertanejo{
+  background-color: brown;
+}

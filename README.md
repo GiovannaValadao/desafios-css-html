@@ -32,3 +32,23 @@ A diferença entre `:hover` e `:focus` é:
 - `:hover` quando o ponteiro do mouse está no elemento.
 
 - `:focus` quando você seleciona um elemento, o elemento entra no foco.
+
+## [ Desafio 2 -  Divs responsivas:](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-2/desafio-2)
+
+<img width="1160" alt="Captura de Tela 2021-12-22 às 12 14 06" src="https://user-images.githubusercontent.com/42494406/147122244-4b548a21-175d-4500-b466-df60cc37b281.png">
+
+
+- O que eu aprendi:
+
+  - Flexbox: Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens.
+  `align-items:`: O align-items alinha os flex itens de acordo com o eixo do container. O alinhamento é diferente para quando os itens estão em colunas ou linhas.
+
+  `justify-content:`: Alinha os itens flex no container de acordo com a direção. A propriedade só funciona se os itens atuais não ocuparem todo o container.
+  **Valores da propriedade:**
+ - `justify-content: flex-start; // Alinha os itens ao início do container.`
+- `justify-content: flex-end; // Alinha os itens ao final do container.`
+- `justify-content: center; // Alinha os itens ao centro do container.`
+- `justify-content: space-between; // Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.`
+- `justify-content: space-around; // Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.`
+
+**Obs:** O flexbox alinha na horizontal usando o align-items e para a vertical o justify-content, isso porque por padrão ele considera os itens em linha. Mas se você utilizar o `flex-direction: column` essas funções invertem.
