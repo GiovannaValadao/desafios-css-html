@@ -11,19 +11,28 @@ body{
   height: 100%; 
   display: flex; /* ele passa a deixar as divs uma do lado da outra pq é o comportamento do flexbox, 
 torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens.*/
+ gap: 16px;
 }
+
+@media screen and (max-width: 1024px) {   
+  .container {
+    flex-direction: column;
+   }
+}
+
 
 .container > div{
   font-size: 16px; 
+  padding: 30px;
+  height: 250px;
+  width: 250px;
 }
 
 .pop{
-  margin-right: 10px;
   background-color: aqua;
 }
 
 .rock{
-  margin-right: 10px;
   background-color: gold;
 }
 
