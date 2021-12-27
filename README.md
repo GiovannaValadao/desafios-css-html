@@ -69,3 +69,11 @@ all | Padrão. Usado para todos os dispositivos de tipo de mídia
 print	 | Usado para quando pedir imprimir a tela.
 screen | Usado para telas de computador, tablets, smartphones etc.
 speech	| Usado para leitores de tela que "lêem" a página em voz alta
+
+- Desktop:
+<img width="1661" alt="Captura de Tela 2021-12-27 às 11 30 59" src="https://user-images.githubusercontent.com/42494406/147481165-21099a94-4a0f-4b4d-963f-4f94782766ec.png">
+
+- Mobile:
+<img width="372" alt="Captura de Tela 2021-12-27 às 11 37 29" src="https://user-images.githubusercontent.com/42494406/147481689-8bb976c3-30a1-4502-b495-157f2f3537ba.png">
+
+
