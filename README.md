@@ -52,3 +52,20 @@ A diferença entre `:hover` e `:focus` é:
 - `justify-content: space-around; // Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.`
 
 **Obs:** O flexbox alinha na horizontal usando o align-items e para a vertical o justify-content, isso porque por padrão ele considera os itens em linha. Mas se você utilizar o `flex-direction: column` essas funções invertem.
+
+## [ Desafio 3 -   Div com conteúdo usando flex-box:](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-2/desafio-3)
+
+- O que eu aprendi:
+
+- Revisei alguns conceitos de flexbox, pois usei o `flex-start` que alinha os itens ao início do container.
+Alem disso, usamos @media screen para criar um estilo diferente para quando for mobile. O @media é usado em consultas de mídia para aplicar estilos diferentes a tipos/dispositivos de mídia diferentes, pode ser usado para alterar estilo de largura, altura, resolução... 
+
+Tipos de mídia:
+
+
+Valor   | Descrição
+--------- | ------
+all | Padrão. Usado para todos os dispositivos de tipo de mídia
+print	 | Usado para quando pedir imprimir a tela.
+screen | Usado para telas de computador, tablets, smartphones etc.
+speech	| Usado para leitores de tela que "lêem" a página em voz alta
