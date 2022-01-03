@@ -1,0 +1,36 @@
+
+body{
+  margin: 0; /* removing the default body margin */
+  box-sizing: border-box
+ }
+.container{ 
+  align-items:flex-start;
+  justify-content: flex-start;    
+  display: flex; 
+  gap: 10px;
+  height: 100%  ;
+  margin: 15px 15px 0 15px;
+}
+.img{
+  width: 400px;
+  height:400px;
+  padding: 0 0 20px;
+}
+.text{
+  text-align:justify;
+  padding: 0 0 20px;
+  font-size: 16px;
+}
+@media screen and (max-width: 1024px) {   
+  .container {
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    margin: 20px 20px 0 20px;
+   }
+
+   .text{
+     font-size: 20px;
+   }
+}
+

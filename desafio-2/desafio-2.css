@@ -19,8 +19,6 @@ torna o elemento um flex container automaticamente transformando todos os seus f
     flex-direction: column;
    }
 }
-
-
 .container > div{
   font-size: 16px; 
   padding: 30px;
