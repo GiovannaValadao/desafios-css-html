@@ -88,4 +88,4 @@ Existem alguns tipos de `transition`, sendo eles:
   - `transition-property`: Especifica o nome da propriedade CSS para a qual o efeito de transição se destina
   - `transition-timing-function`: Especifica a curva de velocidade do efeito de transição
 
-No desafio também utilizei a propriedade `hover` para definir quando passar o cursor mouse sob o elemento ele se expanda. 
+No desafio também utilizei a propriedade `hover` para definir quando passar o cursor mouse sob o elemento ele se expanda e a propriedade `max-height`  para definir a altura máxima do elemento. 
