@@ -76,7 +76,7 @@ speech	| Usado para leitores de tela que "lêem" a página em voz alta
 - Mobile:
 <img width="372" alt="Captura de Tela 2021-12-27 às 11 37 29" src="https://user-images.githubusercontent.com/42494406/147481689-8bb976c3-30a1-4502-b495-157f2f3537ba.png">
 
-## [Desafio 4 - Expanda uma div ao passar o mouse]()
+## [Desafio 4 - Expanda uma div ao passar o mouse](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-4/desafio-4)
 
 - O que eu aprendi: 
 A propriedade `transition` permite que você altere os valores das propriedades suavemente, como por exemplo altura ou largura, durante um determinado período.

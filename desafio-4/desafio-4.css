@@ -1,15 +1,15 @@
-.cardapio .pratos {
+.menu .receitas {
   max-height: 0;
   transition: max-height 0.15s;
   overflow: hidden;
   background: #B22222;
 }
 
-.cardapio:hover .pratos {
+.menu:hover .receitas {
   max-height: 500px;
-  transition: max-height 2s;
+  transition: max-height 2s; 
 }
 
 .titulo{
-  color:darkkhaki;
+  color: #BDB76B;
 }
