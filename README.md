@@ -92,3 +92,19 @@ Existem alguns tipos de `transition`, sendo eles:
   - `transition-timing-function`: Especifica a curva de velocidade do efeito de transição
 
 No desafio também utilizei a propriedade `hover` para definir quando passar o cursor mouse sob o elemento ele se expanda e a propriedade `max-height`  para definir a altura máxima do elemento. 
+
+## [Desafio 5 - Lista de tarefas ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-4/desafio-4)
+
+- O que eu aprendi: 
+
+   - Revisei conceito de listas ordenadas para organizar as tarefas por ordem
+   - Usei o elemento `<input>` para criar os checks dos itens da lista com o type `checkbox` para criar uma caixa de marcação e o checked para indicar os itens selecionados por padrão.
+   Além disso, o elemento `input` possui alguns outros tipos, sendo os principais:
+
+type   | Descrição
+--------- | ------
+checkbox |  Uma caixa de marcação. Você deve usar o atributo value para definir o valor enviado por este item. Use o atributo checked para indicar se o item está selecionado por padrão. 
+button | Um botão sem comportamento padrão.
+color	 |Um controle para especificar cores. A interface de um seletor de cores não tem nenhuma funcionalidade obrigatória a não ser aceitar cores simples em texto 
+date | Um controle para inserir uma data (ano, mês e dia, sem horário).
+password	| Um campo de texto com uma só linha cujo valor é obscurecido. Use o atributo maxlength para especificar o comprimento máximo do valor que pode ser inserido.
