@@ -95,6 +95,14 @@ No desafio também utilizei a propriedade `hover` para definir quando passar o c
 
 ## [Desafio 5 - Lista de tarefas ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-5/desafio-5)
 
+
+- Desktop:
+
+<img width="1345" alt="Captura de Tela 2022-01-10 às 01 36 51" src="https://user-images.githubusercontent.com/42494406/148719714-8eb0beaf-7da1-4611-b445-75e634a461d6.png">
+
+- Mobile:
+
+<img width="388" alt="Captura de Tela 2022-01-10 às 01 37 11" src="https://user-images.githubusercontent.com/42494406/148719700-e906ea2d-74e7-4c18-bd8f-cfad12f2786a.png">
 - O que eu aprendi: 
 
    - Revisei conceitos de listas ordenadas para organizar as tarefas por ordem numérica
