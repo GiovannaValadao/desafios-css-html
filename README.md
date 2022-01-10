@@ -93,12 +93,13 @@ Existem alguns tipos de `transition`, sendo eles:
 
 No desafio também utilizei a propriedade `hover` para definir quando passar o cursor mouse sob o elemento ele se expanda e a propriedade `max-height`  para definir a altura máxima do elemento. 
 
-## [Desafio 5 - Lista de tarefas ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-4/desafio-4)
+## [Desafio 5 - Lista de tarefas ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-5/desafio-5)
 
 - O que eu aprendi: 
 
-   - Revisei conceito de listas ordenadas para organizar as tarefas por ordem
+   - Revisei conceitos de listas ordenadas para organizar as tarefas por ordem numérica
    - Usei o elemento `<input>` para criar os checks dos itens da lista com o type `checkbox` para criar uma caixa de marcação e o checked para indicar os itens selecionados por padrão.
+
    Além disso, o elemento `input` possui alguns outros tipos, sendo os principais:
 
 type   | Descrição
