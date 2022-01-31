@@ -117,3 +117,12 @@ button | Um botão sem comportamento padrão.
 color	 |Um controle para especificar cores. A interface de um seletor de cores não tem nenhuma funcionalidade obrigatória a não ser aceitar cores simples em texto 
 date | Um controle para inserir uma data (ano, mês e dia, sem horário).
 password	| Um campo de texto com uma só linha cujo valor é obscurecido. Use o atributo maxlength para especificar o comprimento máximo do valor que pode ser inserido.
+
+## [Desafio 6 - Header com navegação ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-5/desafio-5)
+
+- O que eu aprendi: 
+
+No desafio usei a tag `<header>` utilizada para criar o cabeçalho da página, é importante definir um header para estruturar a estrutura do documento e se uma pessoa com necessidades especiais usa um programa de acessibilidade para saber em que parte da página está sem enxergar, a tag div não oferece nenhuma informação para o programa. Mas a tag header deixa claro que ele esta no topo da página. Dentro da tag header utilizei a tag nav que é um elemento de Navegação `<nav>` que representa uma seção de uma página que aponta para outras páginas ou para outras áreas da página, ou seja, uma seção com links de navegação. 
+Obs: Nem todos os links de uma página HTML devem estar dentro de um elemento `<nav>`, o ideal é que ele seja usado para grupos importantes de links de navegação, como por exemplo o elemento `<footer>` que pode conter uma lista de links que não precisam estar em um elemento `<nav>`. E na tag nav criei listas para os tópicos da página
+
+

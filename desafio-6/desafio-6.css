@@ -1,0 +1,53 @@
+body{
+  font-family: arial, sans-serif;
+  background: #8FBC8F;
+  margin: 0;
+}
+p{
+  padding: 20px;
+  text-align: justify;
+}
+
+.container{
+  height: 60px;
+  background-position: right center;
+  background-size: cover;
+  border-bottom: 1px solid #ffffff;
+}
+
+.container-info{
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+
+.container-info h1{
+  text-transform: uppercase;
+  font-size: 30px;
+  text-shadow: 3px 3px 2px #333;
+}
+
+.container nav ul{
+  text-align: right;
+  margin: 20px 50px 0 0;
+}
+
+.container nav li{
+  display: inline-block;
+  list-style: none;
+  margin-left: 10px;
+  border: 1px solid white;
+}
+.container nav a{
+  background: rgba(0,0,0, 0.3);
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.container nav a:hover{
+  background: #8FBC8F;
+}
+
