@@ -118,11 +118,22 @@ color	 |Um controle para especificar cores. A interface de um seletor de cores n
 date | Um controle para inserir uma data (ano, mês e dia, sem horário).
 password	| Um campo de texto com uma só linha cujo valor é obscurecido. Use o atributo maxlength para especificar o comprimento máximo do valor que pode ser inserido.
 
-## [Desafio 6 - Header com navegação ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-5/desafio-5)
+## [Desafio 6 - Header com navegação ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-6/desafio-6)
 
 - O que eu aprendi: 
 
 No desafio usei a tag `<header>` utilizada para criar o cabeçalho da página, é importante definir um header para estruturar a estrutura do documento e se uma pessoa com necessidades especiais usa um programa de acessibilidade para saber em que parte da página está sem enxergar, a tag div não oferece nenhuma informação para o programa. Mas a tag header deixa claro que ele esta no topo da página. Dentro da tag header utilizei a tag nav que é um elemento de Navegação `<nav>` que representa uma seção de uma página que aponta para outras páginas ou para outras áreas da página, ou seja, uma seção com links de navegação. 
 Obs: Nem todos os links de uma página HTML devem estar dentro de um elemento `<nav>`, o ideal é que ele seja usado para grupos importantes de links de navegação, como por exemplo o elemento `<footer>` que pode conter uma lista de links que não precisam estar em um elemento `<nav>`. E na tag nav criei listas para os tópicos da página
+
+- Desktop:
+<img width="1679" alt="Captura de Tela 2022-01-30 às 23 10 49" src="https://user-images.githubusercontent.com/42494406/151730176-9b52f552-d555-4c64-ac89-d40c17a7b6f2.png">
+
+- Mobile:
+
+
+<img width="377" alt="Captura de Tela 2022-01-30 às 23 11 16" src="https://user-images.githubusercontent.com/42494406/151730226-f365e0fb-0c06-440f-8990-994c7bd7d619.png">
+
+
+
 
 
