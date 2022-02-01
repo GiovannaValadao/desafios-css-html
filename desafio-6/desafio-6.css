@@ -10,8 +10,6 @@ p{
 
 .container{
   height: 60px;
-  background-position: right center;
-  background-size: cover;
   border-bottom: 1px solid #ffffff;
 }
 
@@ -28,14 +26,14 @@ p{
 }
 
 .container nav ul{
-  text-align: right;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
   margin: 20px 50px 0 0;
 }
 
 .container nav li{
-  display: inline-block;
   list-style: none;
-  margin-left: 10px;
   border: 1px solid white;
 }
 .container nav a{
