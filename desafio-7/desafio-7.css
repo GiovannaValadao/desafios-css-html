@@ -11,10 +11,8 @@ body{
 .container-info{
   text-align: justify;
 }
-.about{
-  text-align: left;
-}
-.footer{
+
+footer{
   position: fixed;
   left: 0;
   right: 0;
