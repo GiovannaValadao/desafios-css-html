@@ -144,6 +144,12 @@ Exemplo:
 `</footer>`
 Para alinhar as colunas uma do lado da outra usei flexbox com `flex-direction:row` e a propriedade `gap` para o espaçamento entre as colunas.
 
+Desktop:
 
+<img width="1678" alt="Captura de Tela 2022-02-04 às 08 46 12" src="https://user-images.githubusercontent.com/42494406/152525403-f3218997-6441-47f5-b9d2-77c714d9d3d0.png">
+
+Mobile:
+
+<img width="377" alt="Captura de Tela 2022-02-04 às 08 46 03" src="https://user-images.githubusercontent.com/42494406/152525417-10d2df5f-7ee4-49a7-be75-5fa88bc7033a.png">
 
 
