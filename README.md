@@ -133,7 +133,7 @@ Obs: Nem todos os links de uma página HTML devem estar dentro de um elemento `<
 
 <img width="377" alt="Captura de Tela 2022-01-30 às 23 11 16" src="https://user-images.githubusercontent.com/42494406/151730226-f365e0fb-0c06-440f-8990-994c7bd7d619.png">
 
-## [Desafio 7 - Footer responsivo ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-6/desafio-6)
+## [Desafio 7 - Footer responsivo ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-7/desafio-7)
 
 - O que eu aprendi:
 
