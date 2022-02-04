@@ -133,7 +133,23 @@ Obs: Nem todos os links de uma página HTML devem estar dentro de um elemento `<
 
 <img width="377" alt="Captura de Tela 2022-01-30 às 23 11 16" src="https://user-images.githubusercontent.com/42494406/151730226-f365e0fb-0c06-440f-8990-994c7bd7d619.png">
 
+## [Desafio 7 - Footer responsivo ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-7/desafio-7)
 
+- O que eu aprendi:
 
+O elemento HTML de Rodapé `<footer>` representa um rodapé para o seu sectioning content (conteúdo de seção) mais próximo ou sectioning root elemento (ou seja, seu parente mais próximo `<article>`, `<nav>`, `<section>`,  `<body>`. Normalmente um rodapé contém informações sobre o autor da seção de dados, direitos autorais ou links para documentos relacionados.
+Exemplo:
+`<footer>`
+  `Algumas informações de copyright ou talvez alguma informação do autor de um <article>`
+`</footer>`
+Para alinhar as colunas uma do lado da outra usei flexbox com `flex-direction:row` e a propriedade `gap` para o espaçamento entre as colunas.
+
+Desktop:
+
+<img width="1678" alt="Captura de Tela 2022-02-04 às 08 46 12" src="https://user-images.githubusercontent.com/42494406/152525403-f3218997-6441-47f5-b9d2-77c714d9d3d0.png">
+
+Mobile:
+
+<img width="377" alt="Captura de Tela 2022-02-04 às 08 46 03" src="https://user-images.githubusercontent.com/42494406/152525417-10d2df5f-7ee4-49a7-be75-5fa88bc7033a.png">
 
 

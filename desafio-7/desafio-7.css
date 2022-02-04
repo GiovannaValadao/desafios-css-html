@@ -1,0 +1,44 @@
+
+body{
+  background-color:#7c8d9b		;
+  color: white;
+  text-align: justify;
+}
+.info-about{
+  text-align: left;
+
+}
+.container-info{
+  text-align: justify;
+}
+.about{
+  text-align: left;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:#25303e;
+  color: #83969f;
+}
+
+.footer-menu{
+  display: flex;
+  background:#303d4c;	
+  align-items:center;
+  padding:20px;
+  flex-direction: row;
+  gap: 20px
+} 
+.footer-menu p{
+  font-size: 14px;
+  color: white;
+  text-align: center;
+}
+h1{
+ text-align: center;
+}
+.text{
+  text-align:center;
+}
