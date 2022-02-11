@@ -117,7 +117,6 @@ button | Um botão sem comportamento padrão.
 color	 |Um controle para especificar cores. A interface de um seletor de cores não tem nenhuma funcionalidade obrigatória a não ser aceitar cores simples em texto 
 date | Um controle para inserir uma data (ano, mês e dia, sem horário).
 password	| Um campo de texto com uma só linha cujo valor é obscurecido. Use o atributo maxlength para especificar o comprimento máximo do valor que pode ser inserido.
-email |
 
 ## [Desafio 6 - Header com navegação ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-6/desafio-6)
 
