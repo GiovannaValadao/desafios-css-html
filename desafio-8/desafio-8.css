@@ -7,10 +7,12 @@ header {
  justify-content: center;
  flex-direction: row;
 }
+
 body{
  background-color:#222222;
  font-family: Inter;
 }
+
 main {
  width: 940px;
  margin: 0 auto;
@@ -27,14 +29,12 @@ form {
 }
 
 .input-padrao {
- display: block;
  margin: 0 0 20px;
  padding: 10px 25px;
  width: 60%;
  border: 0;
  border-bottom: 2px solid gray;
- outline: 0;
- font-size: 1.3rem;
+ font-size: 10px;
  color: white;
  padding: 7px 0;
  background: transparent;
@@ -51,12 +51,14 @@ form {
  padding: 8px 18px;
  border: 0;
 }
+
 .footer{
  position: fixed;
  left: 0;
  right: 0;
  bottom: 0;
 }
+
 .footer-menu{
  color: #ffffff;
  display: flex;
@@ -72,6 +74,7 @@ form {
  color: white;
  text-align: center;
 }
+
 h1{
  text-align: center;
  }
