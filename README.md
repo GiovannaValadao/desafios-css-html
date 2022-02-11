@@ -153,10 +153,19 @@ Mobile:
 
 <img width="377" alt="Captura de Tela 2022-02-04 às 08 46 03" src="https://user-images.githubusercontent.com/42494406/152525417-10d2df5f-7ee4-49a7-be75-5fa88bc7033a.png">
 
-
 ## [Desafio 8 - Formulário ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-8/desafio-8)
 
+
+Desktop:
+
+<img width="1675" alt="Captura de Tela 2022-02-11 às 01 20 59" src="https://user-images.githubusercontent.com/42494406/153537131-d9b6539d-63c3-4d68-92bd-2a5da1695723.png">
+
+Mobile:
+
+<img width="367" alt="Captura de Tela 2022-02-11 às 01 19 10" src="https://user-images.githubusercontent.com/42494406/153537107-877375d6-b7cc-4599-b751-3cd7a59f6dfa.png">
+
 - O que eu aprendi:
+
 
 No desafio usei a tag form para criar o formulário na página, dentro do form usei o elemento `<input>` para criar inputs interativos para formulários para receber dados do usuário. O elemento possui a propriedade `type` que é O tipo de input a ser exibido e que possui alguns valores, como por exemplo:
 
@@ -166,4 +175,5 @@ button: |   Um botão sem comportamento padrão.
 checkbox: | Uma caixa de marcação. Você deve usar o atributo value para definir o valor enviado por este item. Use o atributo checked para indicar se o item está selecionado por padrão. Você também pode usar o atributo indeterminate para indicar que a caixa de marcação está em um estado indeterminado (na maioria das plataformas, isso desenha uma linha horizontal cortando a caixa).
 datetime: | Um campo para inserir data e horário (hora, minuto, segundo e fração de segundo) baseado no fuso horário UTC.
 email: |  Um campo para editar um endereço de e-mail. O valor do campo é validado para estar vazio ou ter um único endereço de e-mail válido antes de ser enviado. As pseudoclasses CSS :valid e :invalid são aplicadas apropriadamente.
+
 Também utilizei o elemento `<label>` que representa uma legenda para um item em uma interface de usuário, nesse caso a legenda de cada input.
