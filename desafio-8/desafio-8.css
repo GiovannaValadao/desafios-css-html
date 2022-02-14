@@ -36,12 +36,7 @@ form {
  color: white; background: transparent;
  font-size: 18px;
 }
-@media screen and (max-width: 1024px) {   
-  .input {
-   font-size:24px;
-   width: 50%;
 
-   }
 .button{
  background: #9932CC;
  border-radius: 999px;
@@ -80,3 +75,10 @@ form {
 h1{
  text-align: center;
  }
+
+ @media screen and (max-width: 1024px) {   
+  .input {
+   font-size:24px;
+   width: 50%;
+
+   }
