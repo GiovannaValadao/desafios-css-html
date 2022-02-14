@@ -14,9 +14,8 @@ body{
 }
 
 main {
- width: 940px;
  margin: 0 auto;
-}
+ }
 
 form {
  margin: 40px 0;
@@ -31,13 +30,18 @@ form {
 .input {
  margin: 0 0 20px;
  padding: 10px 20px;
- width: 60%;
+ width: 40%;
  border: 0;
  border-bottom: 2px solid gray;
  color: white; background: transparent;
- font-size: 16px;
+ font-size: 18px;
 }
+@media screen and (max-width: 1024px) {   
+  .input {
+   font-size:24px;
+   width: 60%;
 
+   }
 .button{
  background: #9932CC;
  border-radius: 999px;
