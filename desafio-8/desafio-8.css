@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header {
+ padding: 20px 0;
+ background-color: #9932CC;
+ color: #ffffff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: row;
+}
+
+body{
+ background-color:#222222;
+ font-family: Inter;
+}
+
+main {
+ margin: 0 auto;
+ height: 100%;
+ }
+
+form {
+ margin: 40px 0;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ color: #ffffff;
+ gap: 15px;
+}
+
+.input {
+ margin: 0 0 20px;
+ padding: 10px 20px;
+ width: 40%;
+ border: 0;
+ border-bottom: 2px solid gray;
+ color: white; background: transparent;
+ font-size: 18px;
+}
+
+.button{
+ background: #9932CC;
+ border-radius: 999px;
+ color: #FFFFFF;
+ cursor: pointer;
+ font-size: 16px;
+ font-weight: 700;
+ line-height: 24px;
+ padding: 8px 18px;
+ border: 0;
+}
+
+.footer{
+ position: fixed;
+ left: 0;
+ right: 0;
+ bottom: 0;
+}
+
+.footer__menu{
+ color: #ffffff;
+ display: flex;
+ background: #9932CC;
+ align-items:center;
+ flex-direction: row;
+ gap: 20px;
+ padding:20px;
+}
+
+.footer__menu p{
+ font-size: 14px;
+ color: white;
+ text-align: center;
+}
+
+h1{
+ text-align: center;
+ }
+
+ @media screen and (max-width: 1024px) {   
+  .input {
+   font-size: 28px;
+   width: 50%;
+  }
+  label{
+    font-size: 28px;
+  }
+}
