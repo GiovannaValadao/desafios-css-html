@@ -176,3 +176,27 @@ datetime: | Um campo para inserir data e horário (hora, minuto, segundo e fraç
 email: |  Um campo para editar um endereço de e-mail. O valor do campo é validado para estar vazio ou ter um único endereço de e-mail válido antes de ser enviado. As pseudoclasses CSS :valid e :invalid são aplicadas apropriadamente.
 
 Também utilizei o elemento `<label>` que representa uma legenda para um item em uma interface de usuário, nesse caso a legenda de cada input.
+
+## [Desafio 9 - Tabela responsiva ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
+
+Desktop:
+
+<img width="1677" alt="Captura de Tela 2022-02-23 às 10 54 51" src="https://user-images.githubusercontent.com/42494406/155333153-758a5433-072e-4c7a-a75e-4ae82338a015.png">
+
+
+Mobile:
+
+<img width="409" alt="Captura de Tela 2022-02-23 às 10 54 30" src="https://user-images.githubusercontent.com/42494406/155333080-2f3dcb93-0e3f-48f1-825a-77825a0b4d34.png">
+
+- O que eu aprendi:
+  A tag `<table>`  define o começo e o fim da tabela dentro da página HTML. Dentro da tag <table> é possível criar cabeçalho, corpo, rodapé, linhas e colunas. 
+  O objetivo da tag `<tr>` é definir as linhas da tabela, ela determina o fim e o começo de cada linha. Em uma tabela, cada `<tr>` contém dois tipos de células, sendo elas:
+   - A tag `<th>` usada exatamente para criar e delimitar células de cabeçalho dentro de uma tabela, separando essas informações dos dados.
+   - O outro tipo de célula é a de dados. Essa célula é definida pela tag `<td>`, assim delimitando onde começa e termina cada célula de dado presente nas linhas da tabela.
+  No desafio também usei a propriedade CSS `:nth-child(` na tag `<tr>`. A propriedade recebe um único argumento que descreve um padrão para correspondência de índices de elementos em uma lista de irmãos. Os índices de elemento são baseados em 1. Existem dois valores que podem ser usados:
+
+   valor   | Descrição
+  --------- | ------
+  odd: | Representa elementos cuja posição numérica em uma série de irmãos é ímpar: 1, 3, 5, etc.
+  even: |Representa elementos cuja posição numérica em uma série de irmãos é par: 2, 4, 6, etc.
+
