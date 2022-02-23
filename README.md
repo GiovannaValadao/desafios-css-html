@@ -177,7 +177,7 @@ email: |  Um campo para editar um endereço de e-mail. O valor do campo é valid
 
 Também utilizei o elemento `<label>` que representa uma legenda para um item em uma interface de usuário, nesse caso a legenda de cada input.
 
-## [Desafio 9 - Tabela responsiva ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-8/desafio-8)
+## [Desafio 9 - Tabela responsiva ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
 
 - O que eu aprendi:
   A tag `<table>`  define o começo e o fim da tabela dentro da página HTML. Dentro da tag <table> é possível criar cabeçalho, corpo, rodapé, linhas e colunas. 
