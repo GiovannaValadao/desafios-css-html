@@ -179,6 +179,15 @@ Também utilizei o elemento `<label>` que representa uma legenda para um item em
 
 ## [Desafio 9 - Tabela responsiva ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
 
+Desktop:
+
+<img width="1677" alt="Captura de Tela 2022-02-23 às 10 54 51" src="https://user-images.githubusercontent.com/42494406/155333153-758a5433-072e-4c7a-a75e-4ae82338a015.png">
+
+
+Mobile:
+
+<img width="409" alt="Captura de Tela 2022-02-23 às 10 54 30" src="https://user-images.githubusercontent.com/42494406/155333080-2f3dcb93-0e3f-48f1-825a-77825a0b4d34.png">
+
 - O que eu aprendi:
   A tag `<table>`  define o começo e o fim da tabela dentro da página HTML. Dentro da tag <table> é possível criar cabeçalho, corpo, rodapé, linhas e colunas. 
   O objetivo da tag `<tr>` é definir as linhas da tabela, ela determina o fim e o começo de cada linha. Em uma tabela, cada `<tr>` contém dois tipos de células, sendo elas:
