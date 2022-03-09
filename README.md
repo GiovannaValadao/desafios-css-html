@@ -200,3 +200,24 @@ Mobile:
   odd: | Representa elementos cuja posição numérica em uma série de irmãos é ímpar: 1, 3, 5, etc.
   even: |Representa elementos cuja posição numérica em uma série de irmãos é par: 2, 4, 6, etc.
 
+## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
+
+- O que aprendi:
+ O um elemento `<figure>` é utilizado para definir uma foto em um documento HTML e um elemento `<figcaption>` para definir uma legenda para a foto. 
+ No desafio também utilizei a propriedade `border` para definir a borda das imagens, a propriedade pode definir, a cor, tamanho e espessura da borda, sendo eles:
+
+ Espessura:
+ - none: sem borda;
+ - hidden: equivalente a none;
+ - dotted: borda pontilhada;
+ - dashed: borda tracejada;
+ - solid: borda contínua;
+ - double: borda dupla;
+ - groove: borda entalhada;
+ - inset: borda em baixo relevo;
+
+Também é possível definir um estilo para um sentido específico da borda:
+ - border: abreviação referente as quatro bordas;
+ - border-top: propriedades da borda superior;
+ - border-right: propriedades da borda direita;
+ - border-left: propriedades da borda esquerda;
