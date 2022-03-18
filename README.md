@@ -201,7 +201,7 @@ Mobile:
   even: |Representa elementos cuja posição numérica em uma série de irmãos é par: 2, 4, 6, etc.
 
 ## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
-## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-10/desafio-10)
+
 
 - Desktop:
 
@@ -230,3 +230,15 @@ Mobile:
  - border-top: propriedades da borda superior;
  - border-right: propriedades da borda direita;
  - border-left: propriedades da borda esquerda;
+
+
+## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-10/desafio-10)
+
+No desafio utilizei a propriedade border-radius para criar um efeito arredonadao na foto de perfil e border para definir uma borda no card todo. Fora isso usei o `align-itens: center` para alinhar todos os itens do card no centro.
+
+**Também é possível definir um estilo para um sentido específico do border-radius, por exemplo:**
+
+- `border-top-left-radius:     4px 2px; //defini o border-radius em cima do lado esquerdo` 
+- `border-top-right-radius:    3px 4px; //define o border-radius em cima do lado direito`
+- `border-bottom-right-radius: 6px 2px; //define o border-radius embaixo do lado direito`
+- `border-bottom-left-radius:  3px 4px; //define o border-radius embaixo do lado esquerdo`
