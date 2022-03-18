@@ -231,7 +231,7 @@ Mobile:
  - border-right: propriedades da borda direita;
  - border-left: propriedades da borda esquerda;
 
-## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-10/desafio-10)
+## [Desafio 11 - Profile Card ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-11/desafio-11)
 
 Desktop: 
 
