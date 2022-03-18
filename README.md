@@ -231,10 +231,17 @@ Mobile:
  - border-right: propriedades da borda direita;
  - border-left: propriedades da borda esquerda;
 
-
 ## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-10/desafio-10)
 
-No desafio utilizei a propriedade border-radius para criar um efeito arredonadao na foto de perfil e border para definir uma borda no card todo. Fora isso usei o `align-itens: center` para alinhar todos os itens do card no centro.
+Desktop: 
+
+<img width="1679" alt="Captura de Tela 2022-03-18 às 17 12 25" src="https://user-images.githubusercontent.com/42494406/159078376-091bc29e-6805-4288-b8db-b6bdde743bde.png">
+
+Mobile:
+
+<img width="380" alt="Captura de Tela 2022-03-18 às 17 12 07" src="https://user-images.githubusercontent.com/42494406/159078399-811a750d-775d-44aa-9e3c-8f6369783ff9.png">
+
+No desafio utilizei a propriedade border-radius para criar um efeito arredonadao na foto de perfil e border para definir uma borda no card todo. Fora isso usei o `align-itens: center` para alinhar todos os itens do card no centro e a tag <a> para redirecionar para a url do linkedin e github quando clicar nas imagens.
 
 **Também é possível definir um estilo para um sentido específico do border-radius, por exemplo:**
 
