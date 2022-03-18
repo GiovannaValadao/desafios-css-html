@@ -1,0 +1,54 @@
+body{
+  padding: 20px;
+}
+.card {
+  display: flex;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 450px;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 20px solid black;
+  padding: 26px;
+  gap: 20px;
+  font-size: 18px;
+
+}
+.name{
+  color: dark;
+}
+.description{
+  color: grey;
+}
+.title {
+  color: grey;
+}
+.photo{
+  border-radius: 50%;
+  width: 180px;
+  height: 160px;
+}
+
+.link{
+  width: 30px;
+  height: 30px;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+@media screen and (max-width: 1024px) {   
+  body{
+    display: flex;
+    align-items: center;
+  }
+  .card{
+    font-size: 26px;
+    max-width: 750px;
+    height: 800px;
+  }
+}
