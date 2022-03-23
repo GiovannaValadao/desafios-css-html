@@ -201,7 +201,7 @@ Mobile:
   even: |Representa elementos cuja posição numérica em uma série de irmãos é par: 2, 4, 6, etc.
 
 ## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-9/desafio-9)
-## [Desafio 10 - Imagens Polaroid ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-10/desafio-10)
+
 
 - Desktop:
 
@@ -230,3 +230,22 @@ Mobile:
  - border-top: propriedades da borda superior;
  - border-right: propriedades da borda direita;
  - border-left: propriedades da borda esquerda;
+
+## [Desafio 11 - Profile Card ](https://github.com/GiovannaValadao/desafios-css-html/tree/desafio-11/desafio-11)
+
+Desktop: 
+
+<img width="1679" alt="Captura de Tela 2022-03-18 às 17 12 25" src="https://user-images.githubusercontent.com/42494406/159078376-091bc29e-6805-4288-b8db-b6bdde743bde.png">
+
+Mobile:
+
+<img width="380" alt="Captura de Tela 2022-03-18 às 17 12 07" src="https://user-images.githubusercontent.com/42494406/159078399-811a750d-775d-44aa-9e3c-8f6369783ff9.png">
+
+No desafio utilizei a propriedade border-radius para criar um efeito arredonadao na foto de perfil e border para definir uma borda no card todo. Fora isso usei o `align-itens: center` para alinhar todos os itens do card no centro e a tag <a> para redirecionar para a url do linkedin e github quando clicar nas imagens.
+
+**Também é possível definir um estilo para um sentido específico do border-radius, por exemplo:**
+
+- `border-top-left-radius:     4px 2px; //defini o border-radius em cima do lado esquerdo` 
+- `border-top-right-radius:    3px 4px; //define o border-radius em cima do lado direito`
+- `border-bottom-right-radius: 6px 2px; //define o border-radius embaixo do lado direito`
+- `border-bottom-left-radius:  3px 4px; //define o border-radius embaixo do lado esquerdo`
